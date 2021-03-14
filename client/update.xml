@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.3</version>
-    <url>https://github.com/alinoancea/interdax/releases/download/v1.0.3/SetupInterdax.msi</url>
+    <version>1.0.4</version>
+    <url>https://github.com/alinoancea/interdax/releases/download/v1.0.4/SetupInterdax.msi</url>
     <mandatory>true</mandatory>
-    <checksum algorithm="SHA256">35a1c71fc2e55ec66d3a6273486e8a9165c93c954b2b0e1d7cb75ed330f637bb</checksum>
+    <checksum algorithm="SHA256">b174d8f8a85932ce17589bb828ad8daeccefd047176fd80fe93e2884e9bc966c</checksum>
 </item>
